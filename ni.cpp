@@ -22,6 +22,6 @@
 	printf("Win");
 	else
 	printf("Lose");
-	return 0;
+	return 0
     }
 }
