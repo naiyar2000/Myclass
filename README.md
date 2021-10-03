@@ -1,2 +1,2 @@
 # Myclass
-codes of enigma classes
+Codes of Enigma classes
