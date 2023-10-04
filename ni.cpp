@@ -24,4 +24,4 @@
 	printf("Lose");
 	return 0;
     }
-}
+}}
