@@ -1,4 +1,5 @@
-	#include<stdio.h>
+//hii
+#include<stdio.h>
 	int main()
 	{
 	int i,j,T,K,N,sum=0;
